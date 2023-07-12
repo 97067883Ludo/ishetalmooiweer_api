@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "OIePrm25FubueKq50fGvLjaWb3ziBtMK8bAKoRyLYCRfrRbUXySu0AK5I9Ua98ZkkyDxysqdGCQCaop139CK1Q==",
+  "success": true,
+  "projectFilePath": "/home/ludo/Documents/programming/prive/ishetalmooiweer_api/ishetalmooiweer_api.csproj",
+  "expectedPackageFiles": [
+    "/home/ludo/.nuget/packages/microsoft.aspnetcore.openapi/7.0.9/microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",
+    "/home/ludo/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/ludo/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/home/ludo/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/ludo/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/ludo/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/ludo/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
